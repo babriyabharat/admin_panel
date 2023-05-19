@@ -1,0 +1,26 @@
+{
+  "product": [
+    {
+      "id": "1",
+      "name": "bharat",
+      "work": "devlopment"
+    },
+    {
+      "id": "2",
+      "name": "Harsh",
+      "work": "devlopment"
+    }
+  ],
+  "user": [
+    {
+      "id": "1",
+      "name": "bharat",
+      "work": "devlopment"
+    },
+    {
+      "id": "3",
+      "name": "harsh",
+      "work": "devlopment"
+    }
+  ]
+}
